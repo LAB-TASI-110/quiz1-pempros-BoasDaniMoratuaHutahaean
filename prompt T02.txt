@@ -1,0 +1,1 @@
+buatlah soal ini kedalam bahasa c, nah disini kita disuruh untuk menentukan pola apa yang dipakai untuk menentukan nilai nilai tersebut dengan rumus aretmetika.disini kita di suruh menggunakan array
